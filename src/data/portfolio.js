@@ -15,6 +15,6 @@
         title: 'AI Research Agent',
         imgUrl: '/assets/search.png',
         stack: ['LLM','LangChain', 'GPT','Prompt Engineering'],
-        link: 'https://research-gpt-fvzgvj5bpzfx93nkzvsedk.streamlit.app/'
+        // link: 'https://research-gpt-fvzgvj5bpzfx93nkzvsedk.streamlit.app/'
     },
  ]

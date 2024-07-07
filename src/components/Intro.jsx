@@ -9,9 +9,10 @@ function Intro() {
             <div className="flex max-w-xl mb-6">
                 <p className="text-sm font-bold mr-3 text-left mb-6">
                     Hi! This is Ian! Welcome to my corner on the internet! 
-                    I am studying CS/Math at Harvey Mudd College. Currently,
+                    I am studying CS-Math at Harvey Mudd College. Currently,
                     my academic journey has led me to the fascinating world 
-                    of artificial intelligence and machine learning research. With a 
+                    of artificial intelligence and machine learning research, specifically,
+                    probabilistic models and generative models. With a 
                     curious mind and a drive for innovation, I'm constantly exploring
                     the endless possibilities that AI offers to reshape our future.
                     <br></br>
